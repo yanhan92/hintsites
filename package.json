@@ -1,0 +1,23 @@
+{
+  "name": "hintsites",
+  "version": "1.0.0",
+  "description": "A tweet crawling bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanhan92/hintsites.git"
+  },
+  "keywords": [
+    "twitter",
+    "crawler"
+  ],
+  "author": "Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanhan92/hintsites/issues"
+  },
+  "homepage": "https://github.com/yanhan92/hintsites#readme"
+}
